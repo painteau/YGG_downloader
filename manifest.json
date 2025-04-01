@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "YGG Downloader",
   "version": "1.0",
-  "description": "Enhance your YGG torrent experience with convenient one-click download buttons directly in torrent listings. Seamlessly integrates with YGG's interface for faster, more efficient downloads.",
+  "description": "Add convenient one-click download buttons to YGG listings. Seamlessly integrates with the site interface for faster downloads.",
   "host_permissions": ["*://*.yggtorrent.top/*"],
   "content_scripts": [
     {
