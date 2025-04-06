@@ -15,6 +15,12 @@ YGG Downloader is a Chrome extension that enhances your experience on YGG torren
 
 ## Installation
 
+### Chrome Web Store (Recommended)
+
+Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/ygg-downloader/gcbbbndadnblalmdaggplhfpmkbkboin) and click "Add to Chrome" to install the extension.
+
+### Manual Installation
+
 1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right corner
