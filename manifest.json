@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YGG Downloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add convenient one-click download buttons to YGG listings. Seamlessly integrates with the site interface for faster downloads.",
   "browser_specific_settings": {
     "gecko": {
