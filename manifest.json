@@ -9,9 +9,7 @@
     }
   },
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm2Tu9KhrLN8pj2FD+FXZ2bj69IcZQdgf30yx40MmAUFS3QAeLTV/bwyrXdtjAxb7ZBbhbVrO+DMBlS89jGj5CTdyOwZTXJVrnZtTAIbQeYe7evOuj9/+/tcfMXSw5JQl8wvbQCN1ebB6u5f1eq0oYtsgogRQKiKcwEUojNfu2pizBgAJuGfBrI7+d+h5D93VWwabeUz7dqeILdy2E5H1lupxliPSre8vaYr/BR4LGJqyExT300V9pLd0cCJ/VVB0ZL4QiJrsau3CeQ1hpVW6CXDdQiNKwlN+5hpJg4XofKLwUYSVuyDyYaxBQCkTDvZ8eoZisjkIHysPWq7b6WpmLwIDAQAB",
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": [],
   "content_scripts": [
     {
       "matches": ["*://*.yggtorrent.top/*"],
